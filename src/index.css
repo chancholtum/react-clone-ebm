@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Sarabun:wght@100;200;300;400;500;600;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.slick-dots li.slick-active div {
+  background: #fad53d !important;
+}
+
+.slick-dots li {
+  width: 10px;
+  height: 10px;
+}
+
+.slick-track {
+  margin: 5px 0;
+}
